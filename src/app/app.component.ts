@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'tarea-semana-7';
+  title1 = 'Hola mundo'
 }

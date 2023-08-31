@@ -1,0 +1,15 @@
+.flex-container{
+    margin-right: 20%;
+    display: flex;
+    margin: 10px;
+    
+}
+
+.flex-container > div{
+    margin: 10px;
+}
+
+.btn{
+   margin-left: 35%;
+}
+
